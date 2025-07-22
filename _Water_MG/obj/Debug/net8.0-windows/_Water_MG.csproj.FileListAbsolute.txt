@@ -1,0 +1,824 @@
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.exe
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.deps.json
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.runtimeconfig.json
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.pdb
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Core.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Identity.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Humanizer.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Memory.Data.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.AssemblyReference.cache
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\ButtonStyle.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\Color.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.cache
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.lref
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Themes\Generic.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.g.resources
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.GeneratedMSBuildEditorConfig.editorconfig
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfoInputs.cache
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfo.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.CoreCompileInputs.cache
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.sourcelink.json
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.Up2Date
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\refint\_Water_MG.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.pdb
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.genruntimeconfig.cache
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\ref\_Water_MG.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.g.cs
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.baml
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.System.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.DocumentObjectModel.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.Rendering.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.Charting.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.barcodes.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.forms.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.io.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.kernel.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.layout.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfa.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfua.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.sign.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.svg.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.commons.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+O:\Project_K15\C#_code\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.exe
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.deps.json
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.runtimeconfig.json
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.pdb
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Humanizer.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.forms.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.io.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.layout.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.sign.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.svg.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.commons.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.DocumentObjectModel.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.Rendering.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.System.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.Charting.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.AssemblyReference.cache
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\ButtonStyle.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\Color.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.cache
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.lref
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.baml
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.g.resources
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfoInputs.cache
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfo.cs
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.CoreCompileInputs.cache
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.sourcelink.json
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.CopyComplete
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\refint\_Water_MG.dll
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.pdb
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.genruntimeconfig.cache
+D:\BaiTapLonN4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\ref\_Water_MG.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.exe
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.deps.json
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.runtimeconfig.json
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.pdb
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Humanizer.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.forms.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.io.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.layout.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.sign.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.svg.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.commons.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.DocumentObjectModel.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.Rendering.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.System.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.Charting.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.AssemblyReference.cache
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\ButtonStyle.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\Color.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.cache
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.lref
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.baml
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.g.resources
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfoInputs.cache
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfo.cs
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.CoreCompileInputs.cache
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.sourcelink.json
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.CopyComplete
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\refint\_Water_MG.dll
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.pdb
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.genruntimeconfig.cache
+D:\BaiTapLonN4\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\ref\_Water_MG.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.exe
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.deps.json
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.runtimeconfig.json
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\_Water_MG.pdb
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.DocumentObjectModel.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDocCore.Rendering.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\PdfSharpCore.Charting.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.AssemblyReference.cache
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\ButtonStyle.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Styles\Color.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.cache
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG_MarkupCompile.lref
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\App.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\CustomControls\BindablePasswordBox.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Themes\Generic.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\BillView.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\CustomerView.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\MeterView.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\PaymentView.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\Views\StatisticalView.baml
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.g.resources
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfoInputs.cache
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.AssemblyInfo.cs
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.CoreCompileInputs.cache
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.sourcelink.json
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.csproj.Up2Date
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\refint\_Water_MG.dll
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.pdb
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\_Water_MG.genruntimeconfig.cache
+C:\Users\MinhDuc\Documents\Zalo Received Files\BaiTapLonNhom4\HN_Water_Supply\HN_Water_Supply\_Water_MG\obj\Debug\net8.0-windows\ref\_Water_MG.dll
